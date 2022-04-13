@@ -9,3 +9,9 @@ section = "BSI/T - 2B"
 print (name_school)
 print (course)
 print (section)
+
+print ("watching Tv")
+print ("Playing volleyball")
+print ("Doing household chores")
+print ("watching youtube videos ")
+print ("Hiking")
